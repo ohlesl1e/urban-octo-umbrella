@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/urban-octo-umbrella/static/css/main.12e17db1.chunk.css",
+    "main.js": "/urban-octo-umbrella/static/js/main.75179158.chunk.js",
+    "main.js.map": "/urban-octo-umbrella/static/js/main.75179158.chunk.js.map",
+    "runtime-main.js": "/urban-octo-umbrella/static/js/runtime-main.5329ceac.js",
+    "runtime-main.js.map": "/urban-octo-umbrella/static/js/runtime-main.5329ceac.js.map",
+    "static/css/2.9e6866ea.chunk.css": "/urban-octo-umbrella/static/css/2.9e6866ea.chunk.css",
+    "static/js/2.c7281444.chunk.js": "/urban-octo-umbrella/static/js/2.c7281444.chunk.js",
+    "static/js/2.c7281444.chunk.js.map": "/urban-octo-umbrella/static/js/2.c7281444.chunk.js.map",
+    "static/js/3.f45aafef.chunk.js": "/urban-octo-umbrella/static/js/3.f45aafef.chunk.js",
+    "static/js/3.f45aafef.chunk.js.map": "/urban-octo-umbrella/static/js/3.f45aafef.chunk.js.map",
+    "index.html": "/urban-octo-umbrella/index.html",
+    "static/css/2.9e6866ea.chunk.css.map": "/urban-octo-umbrella/static/css/2.9e6866ea.chunk.css.map",
+    "static/css/main.12e17db1.chunk.css.map": "/urban-octo-umbrella/static/css/main.12e17db1.chunk.css.map",
+    "static/js/2.c7281444.chunk.js.LICENSE.txt": "/urban-octo-umbrella/static/js/2.c7281444.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5329ceac.js",
+    "static/css/2.9e6866ea.chunk.css",
+    "static/js/2.c7281444.chunk.js",
+    "static/css/main.12e17db1.chunk.css",
+    "static/js/main.75179158.chunk.js"
+  ]
+}
